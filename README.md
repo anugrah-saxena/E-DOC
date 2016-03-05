@@ -6,8 +6,8 @@ Course: Database Management System.
 Duration: 2 months (Feb - March, 2010).
 
 Team:
-Anugrah Saxena
-Arpit Bhatnagar
-Pankaj Yadav
+Anugrah Saxena,
+Arpit Bhatnagar,
+Pankaj Yadav.
 
 For further details, refer "DBMS PROJECT PRESENTATION.pdf" file.
