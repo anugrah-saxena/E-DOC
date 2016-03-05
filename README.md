@@ -2,7 +2,7 @@
 Website for Medical Consultancy Services.
 Worked on it while doing Undergraduate Studies at Malaviya National Institute of Technology, Jaipur, India.
 
-Course: Database Management System.
+Course: Database Management System. (Sophomore Year)
 Duration: 2 months (Feb - March, 2010).
 
 Team:
