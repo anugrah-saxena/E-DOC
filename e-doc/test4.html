@@ -1,0 +1,69 @@
+<html>
+<head>
+<body style="background-color:silver" background="medical.png">
+<h2>
+making framesets</h2>
+<hr />
+/*Creating Buttons using HTML forms 
+This is the traditional way. You use 
+
+  <form method="post" action="http://brneurosci.org/imal.html">
+  <input name="url" type="hidden" value="http://brneurosci.org/">
+  <input type="submit" value="Finished Shopping">
+  </form>
+*/
+<center>
+<table border="5">
+<tr>
+<th>x</th><th>y</th>
+</tr>
+<tr>
+<td>x1</td><td>y1</td>
+</tr>
+<tr>
+<td>x2</td><td>y2</td>
+</tr>
+</table>
+</center>
+<hr />
+<frameset cols="20%,60%,20%">
+<iframe src="test.html">
+<iframe src="http://google.com">
+<iframe src="test2.html">
+</frameset>
+<hr />
+<table>
+<tr><td><iframe src ="http://www.google.com" width="100%" height="500"></td>
+</tr>
+<tr>
+<td><iframe src ="http://www.facebook.com" width="100%" height="500"></td>
+</tr>
+</table>
+<p>Your browser does not support iframes.</p>
+</iframe>
+<hr />
+<table>
+<tr>
+<td>
+<form method="post" action="http://www.stagevu.com">
+<input name="url" type="hidden" value="http://www.stagevu.com"/>
+<input type="submit" value="hollywood movies">
+</form>
+</td>
+<td>
+<form method="post" action="http://www.mail.yahoo.com">
+<input name="url" type="hidden" value="http://www.mail.yahoo.com"/>
+<input type="submit" value="yahoo!">
+</form>
+</td>
+</tr>
+<frameset rows="20%,80%">
+<table bgcolor="blue">
+<tr>
+<td><iframe src="http://google.com" width="100%" height="500"></td>
+</tr>
+</table>
+</frameset>
+</body>
+</head>
+</html>
